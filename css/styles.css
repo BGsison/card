@@ -173,6 +173,15 @@ footer {
     }
 }
 
+media screen and (max-width: 356px) {
+    .main {
+        width: 80%;
+    }
+    .profile img {
+        width: 100%;
+    }
+}
+
 /*******************************
  *colors
  *#2c2c33
