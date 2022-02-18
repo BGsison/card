@@ -173,7 +173,7 @@ footer {
     }
 }
 
-media screen and (max-device-width: 500px) {
+@media screen and (max-device-width: 500px) {
     .main {
         width: 80%;
     }
