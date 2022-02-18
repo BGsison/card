@@ -34,6 +34,10 @@ img {
     border-radius: 2px;
 }
 
+.title {
+    display: none;
+}
+
 .main {
     margin: 25px;
     margin-top: 3%;
