@@ -180,6 +180,9 @@ footer {
     .profile img {
         width: 100%;
     }
+    .title {
+	display: block;
+    }
 }
 
 /*******************************
